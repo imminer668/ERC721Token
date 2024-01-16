@@ -1,0 +1,12 @@
+{
+    "title": "roger",
+    "description": "This is my awesome NFT",
+    "image": "ipfs://QmNzfJSVNnYWesBQBd2H247ma5NM1LamEHHZY5K6V5q2xr",
+    "attributes": [
+        {
+            "trait_type": "roger",
+            "value": "99999999"
+        }
+    ],
+    "version": "0"
+}
